@@ -10,7 +10,7 @@ A machine learning project based on Logistic Regression for binary classificatio
 6. Train Logistic Regression model
 7. Model evaluation
    
-#   Model Evaluation:
+#  Model Evaluation:
 - Accuracy Score
 - Confusion Matrix
 - Classification Report
